@@ -4,4 +4,5 @@ https://georgias-hub.github.io/First-Tailwind-Website/
 
 
 Blog - https://hashnode.com/edit/cmucil4e500000agmdw3fbedf
+
 YouTube Walkthrough - https://youtu.be/QLC_6poPIfc
