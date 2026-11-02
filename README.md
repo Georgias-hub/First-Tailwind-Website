@@ -3,6 +3,6 @@ My first website designed using Tailwind features such as text colour, responsiv
 https://georgias-hub.github.io/First-Tailwind-Website/
 
 
-Blog - https://hashnode.com/edit/cmucil4e500000agmdw3fbedf
+Blog - https://georgias-hub.hashnode.dev/my-first-tailwind-website
 
 YouTube Walkthrough - https://youtu.be/QLC_6poPIfc
